@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Begin to edit
-PATHOGEN_BUNDLE_PATH="/Users/__username__/.vim/bundle"
+PATHOGEN_BUNDLE_PATH="${HOME}/.vim/bundle"
 # End of editing
 
 # No need to update following lines unless it is absolute necessary
